@@ -1,0 +1,1 @@
+Spring Cloud for Amazon Web Services，是Spring Cloud项目下的子项目， 致力于简化AWS托管服务的整合。 它提供了一种简便的方法，使得开发者能够轻松地使用Spring API与AWS交互，例如通信和缓存的API。开发者可以快速地使用Spring Cloud for AWS快速地在AWS平台上搭建应用而无需考虑基础架构的维护。
